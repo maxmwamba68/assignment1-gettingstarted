@@ -27,6 +27,7 @@ def welcome_assignment_answers(question):
 # Complete all the questions.
 
 
+
 if __name__ == "__main__":
     #use this space to debug and verify that the program works
     debug_question = "Are encoding and encryption the same? - Yes/No"
@@ -42,6 +43,3 @@ if __name__ == "__main__":
 #"Is MD5 a secured hashing algorithm? - Yes/No":
 #"What layer of the TCP/IP model does the protocol DNS belong to? - The answer should be an integer number":
 #"What layer of the TCP/IP model does the protocol ICMP belong to? - The answer should be an integer number":
-
-
-
