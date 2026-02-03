@@ -22,7 +22,8 @@ def welcome_assignment_answers(question):
     elif question == "What layer of the TCP/IP model does the protocol ICMP belong to? - The answer should be an integer number":
         answer = 3
     else: 
-        answer = "This is not my beautiful wife! This is not my beautiful car! How did I get here?"
+        answer = "THIS IS NOT MY BEAUTIFUL WIFE! THIS IS NOT MY BEAUTIFUL CAR! HOW DID I GET THERE?"
+        #answer = "This is not my beautiful wife! This is not my beautiful car! How did I get here?"
     return(answer)
 # Complete all the questions.
 
@@ -43,3 +44,4 @@ if __name__ == "__main__":
 #"Is MD5 a secured hashing algorithm? - Yes/No":
 #"What layer of the TCP/IP model does the protocol DNS belong to? - The answer should be an integer number":
 #"What layer of the TCP/IP model does the protocol ICMP belong to? - The answer should be an integer number":
+
